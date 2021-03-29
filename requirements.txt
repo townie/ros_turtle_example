@@ -124,7 +124,7 @@ pycairo==1.10.0
 pycosat==0.6.1
 pycrypto==2.6.1
 pydot==1.2.3
-Pygments==2.1.3
+Pygments==2.7.4
 pygoogle==0.6
 PyJWT==1.3.0
 pyparsing==2.1.4
