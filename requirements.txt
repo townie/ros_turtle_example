@@ -88,7 +88,7 @@ keyring==9.0
 kombu==3.0.35
 laser-geometry==1.6.4
 lockfile==0.12.2
-lxml==3.4.4
+lxml==4.6.3
 Mako==1.0.4
 Markdown==2.6.6
 MarkupSafe==0.23
