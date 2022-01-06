@@ -20,7 +20,7 @@ camera-calibration==1.12.20
 camera-calibration-parsers==1.11.12
 catkin==0.7.6
 catkin-pkg==0.3.6
-celery==3.1.23
+celery==5.2.2
 chardet==2.3.0
 chartkick==0.4.2
 click==6.6
