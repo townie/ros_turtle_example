@@ -27,7 +27,7 @@ click==6.6
 colorama==0.3.3
 configparser==3.5.0b2
 controller-manager-msgs==0.12.0
-cookiecutter==1.3.0
+cookiecutter==2.1.1
 coursera-dl==0.6.0
 croniter==0.3.12
 cssselect==0.9.1
