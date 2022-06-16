@@ -103,7 +103,7 @@ nbconvert==4.2.0
 nbformat==4.0.1
 neovim==0.1.8
 nltk==3.2.1
-notebook==4.2.0
+notebook==6.4.12
 numpy==1.10.1
 pager==3.3
 pandas==0.18.1
