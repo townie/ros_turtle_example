@@ -104,7 +104,7 @@ nbformat==4.0.1
 neovim==0.1.8
 nltk==3.2.1
 notebook==4.2.0
-numpy==1.10.1
+numpy==1.22.0
 pager==3.3
 pandas==0.18.1
 path.py==0.0.0
