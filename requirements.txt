@@ -99,7 +99,7 @@ moveit-commander==0.9.9
 moveit-ros-planning-interface==0.9.9
 moveit-ros-visualization==0.9.9
 msgpack-python==0.4.7
-nbconvert==4.2.0
+nbconvert==6.5.1
 nbformat==4.0.1
 neovim==0.1.8
 nltk==3.2.1
